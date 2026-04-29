@@ -2,7 +2,7 @@
 
 **#Description**
 
-Sample project uesd html and css for class assignment
+Sample project used HTML and CSS for a class assignment.
 
 
 
