@@ -1,9 +1,9 @@
 # web-project
-Description
+#Description
 Sample project uesd html and css for class assignment
-Files
+#Files
 . index.html
 . styleA.css
 . styleB.css
-Student Information
+#Student Information
 Abdul Hakeem
