@@ -24,8 +24,6 @@ body {
     align-items: center;
     justify-content: center;
 }
-
-/* Alternating colors */
 .box:nth-child(odd) {
     background-color: #dfe1e7;
 }
@@ -33,10 +31,7 @@ body {
 .box:nth-child(even) {
     background-color: #eeeff2;
 }
-
-/* Last box special style */
 .last {
     background-color: #687291 !important;
     border: 4px solid black;
-
 }
