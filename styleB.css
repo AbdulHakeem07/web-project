@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    font-family: Tahoma, sans-serif;
+    font-size: 40px;
+}
+
+.box {
+    width: 100px;
+    height: 150px;
+    background-color: #eeeff2;
+    border-left: 10px dotted #D0D0FF;
+    padding: 10px;
+    margin-right: 8px;
+    display: inline-block;
+    white-space: nowrap;
+    cursor: default;
+    
+}
+
+
+.box:hover {
+    background-color: yellow;
+}
+
+.last {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 100px;
+    height: 150px;
+
+    background-color: #eeeff2;
+    border-left: 10px dotted #D0D0FF;
+    padding: 10px;
+    display: inline-block;
+}
+
+.last:hover {
+    background-color: yellow;
+}

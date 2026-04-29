@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    font-family: Tahoma, sans-serif;
+    font-size: 40px;
+
+    background: linear-gradient(to bottom right, #f5f7fa, #c3cfe2);
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+
+    margin: 10px;
+
+    background: linear-gradient(135deg, #dfe1e7, #eeeff2);
+
+    border-top: 1px solid #687291;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    transition: all 0.3s ease;
+
+    box-shadow: 3px 3px 10px rgba(0,0,0,0.2);
+}
+
+.box:hover {
+    transform: scale(1.1);
+    background: yellow;
+    color: goldenrod;
+}
