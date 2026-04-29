@@ -17,7 +17,3 @@ Sample project used HTML and CSS for a class assignment.
 . styleC.css
 
 
-
-**#Student Information**
-
-Abdul Hakeem (2656)
