@@ -14,6 +14,8 @@ Sample project used HTML and CSS for a class assignment.
 
 . styleB.css
 
+. styleC.css
+
 
 
 **#Student Information**
